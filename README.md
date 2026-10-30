@@ -17,9 +17,9 @@ When learning a new fighting game, memorizing and becoming familiar with attacks
 
 ## Tech Stack
 
-- **Language:** Bash / Java / etc.
-- **Libraries:** any external dependencies
-- **External tools:** cron, curl, APIs, etc.
+- **Language:** Typescript
+- **Libraries:** React
+- **External tools:** Vite
 
 ## Setup
 
