@@ -13,7 +13,7 @@ When learning a new fighting game, memorizing and becoming familiar with attacks
 - Creates card sets for user-defined groups
 - Reinforces learning through spaced repetiton
 
-![System diagram](docs/diagram.png)
+![System diagram](Flowchart-move-dojo.pdf)
 
 ## Tech Stack
 
