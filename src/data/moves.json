@@ -1,0 +1,60 @@
+[
+    {
+        "id": "Kazuya-f,F+2",
+        "character": "Kazuya",
+        "num": "54",
+        "name": "Devil Fist",
+        "input": "f,F+2",
+        "hitLevel": "m",
+        "damage": "20",
+        "startup": "i16",
+        "block": "-9",
+        "hit": "+13cg",
+        "recovery": "t51 r35",
+        "notes": "Heat Engager, Heat Dash +36a (+26a), Balcony Break, 6 chip damage on block, Forces tech back roll on hit"
+    },
+    {
+        "id": "Kazuya-f,F+3",
+        "character": "Kazuya",
+        "num": "55",
+        "name": "Left Splits Kick",
+        "input": "f,F+3",
+        "hitLevel": "m",
+        "damage": "21",
+        "startup": "i20~22",
+        "block": "-3c",
+        "hit": "+46a",
+        "recovery": "t50 r28",
+        "notes": "Spike"
+    },
+    {
+        "id": "Kazuya-f,F+4",
+        "character": "Kazuya",
+        "num": "56",
+        "name": "Devil's Steel Pedal",
+        "input": "f,F+4",
+        "hitLevel": "M",
+        "damage": "22",
+        "startup": "i17~18",
+        "block": "-9",
+        "hit": "+5",
+        "counterHit": "+29a(+23)",
+        "recovery": "t47 r29",
+        "notes": "4f timestop on CH"
+    },
+    {
+        "id": "Kazuya-f,f,F+3",
+        "character": "Kazuya",
+        "num": "57",
+        "name": "Leaping Side Kick",
+        "input": "f,f,F+3",
+        "hitLevel": "m",
+        "damage": "30",
+        "startup": "i22~25",
+        "block": "+6",
+        "hit": "+13a (+3)",
+        "states": "js3~25, fs26~28",
+        "recovery": "t59 r34",
+        "notes": "Balcony Break, 9 chip damage on block"
+    }
+]
